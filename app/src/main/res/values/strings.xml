@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">uSoftwareChallenge</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="markets">Markets</string>
+    <string name="settings">Settings</string>
+    <string name="exchange_rates">Exchange Rates</string>
+    <string name="done">Done</string>
+    <string name="add_asset">Add Asset</string>
+    <string name="search_assets">Search assets</string>
+    <string name="last_updated">Last updated: %1$s</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
